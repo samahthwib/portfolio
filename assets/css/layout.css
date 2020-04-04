@@ -69,10 +69,12 @@
   
         #main > section.dark h2, #main > section.dark h3, #main > section.dark h4, #main > section.dark h5, #main > section.dark h6 {
           color: inherit;
+          font-family: 'Dosis', sans-serif;
         }
   
         #main > section.dark strong {
-          color: #fff;
+          font-family: 'Dosis', sans-serif;
+          color: #632371;
           border-color: inherit;
         }
   
@@ -92,8 +94,8 @@
       }
   
       #main > section.one {
-        background-color: #e2d8e8;
-        background-image: url("../../images/forest.jpg");
+        /* background-color: #e2d8e8; */
+        background-image: url("images/me.jpg");
       }
   
       #main > section.two {
